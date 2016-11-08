@@ -1,0 +1,115 @@
+-----------------------------------------------
+--------------2016-11-07 17:35:34--------------
+
+login_req response: 200
+------get tweets data-----
+1Pending
+2Pending
+3Pending
+4Pending
+5Pending
+6Pending
+7Pending
+8Pending
+9Pending
+10Pending
+11Pending
+12Pending
+13Pending
+14Pending
+15Pending
+16Pending
+17Pending
+18Pending
+-----------------------------------------------
+--------------2016-11-07 17:37:26--------------
+
+login_req response: 200
+------get tweets data-----
+1Pending
+2Pending
+3Pending
+4Pending
+5Pending
+6Pending
+7Pending
+8Pending
+9Pending
+10Pending
+11Pending
+12Pending
+13Pending
+14Pending
+15Available
+----finish:session.post(export_url + querystring, headers=user_agent)---- 
+----finish:session.get(bundle_url + querystring, headers=csv_header)-----
+data_req response: 200
+tweets CSV downloaded as xlsx: data/tweets_data_uwdatagroup_20160809_20161107.xlsx
+
+------get videos data-----
+1Pending
+2Error
+exit line:  attempt = session.post(export_url + querystring, headers=user_agent)
+-----------------------------------------------
+--------------2016-11-07 18:33:40--------------
+
+login_req response: 200
+------get tweets data-----
+1Pending
+2Available
+----finish:session.post(export_url + querystring, headers=user_agent)---- 
+----finish:session.get(bundle_url + querystring, headers=csv_header)-----
+data_req response: 200
+tweets CSV downloaded as xlsx: data/tweets_data_uwdatagroup_20160809_20161107.xlsx
+
+------get videos data-----
+1Pending
+2Error
+exit line:  attempt = session.post(export_url + querystring, headers=user_agent)
+-----------------------------------------------
+--------------2016-11-07 18:34:30--------------
+
+Error: NUM_DAYS should less than or equal to 90
+-----------------------------------------------
+--------------2016-11-07 18:37:17--------------
+
+Error: NUM_DAYS should less than or equal to 90
+-----------------------------------------------
+--------------2016-11-07 18:37:43--------------
+
+login_req response: 200
+------get tweets data-----
+1Pending
+2Pending
+3Available
+----finish:session.post(export_url + querystring, headers=user_agent)---- 
+----finish:session.get(bundle_url + querystring, headers=csv_header)-----
+data_req response: 200
+tweets CSV downloaded as xlsx: data/tweets_data_ONgov_20160918_20161107.xlsx
+
+------get videos data-----
+1Pending
+2Available
+----finish:session.post(export_url + querystring, headers=user_agent)---- 
+----finish:session.get(bundle_url + querystring, headers=csv_header)-----
+data_req response: 200
+videos CSV downloaded as xlsx: data/videos_data_ONgov_20160918_20161107.xlsx
+
+
+
+-----------------------------------------------
+--------------2016-11-07 18:39:19--------------
+
+login_req response: 200
+------get tweets data-----
+1Pending
+2Available
+----finish:session.post(export_url + querystring, headers=user_agent)---- 
+----finish:session.get(bundle_url + querystring, headers=csv_header)-----
+data_req response: 200
+tweets CSV downloaded as xlsx: data/tweets_data_uwdatagroup_20160809_20161107.xlsx
+
+------get videos data-----
+1Pending
+2Error
+exit line:  attempt = session.post(export_url + querystring, headers=user_agent)
